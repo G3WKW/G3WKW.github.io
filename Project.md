@@ -4,4 +4,5 @@ and I WANT A PHOTO ![HERE](BF351C6B-EB4B-418C-AA36-2E3943593182.jpeg)
 and this is editted in Notepad++ on my PC
 
 and line added in notepad on local copy.
+and a link to a new [document](document.md)
 

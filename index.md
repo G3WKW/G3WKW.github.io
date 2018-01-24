@@ -17,7 +17,7 @@ And this [is a link](Project.md) to my project page.
 
 You can use the [editor on GitHub](https://github.com/G3WKW/G3WKW.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-THIS IS AN *ADDITION*.  So is this. **AND this**.  and this is *** thrice***
+THIS IS AN *ADDITION*.  So is this. **AND this**.  and this is _** thrice**_
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
