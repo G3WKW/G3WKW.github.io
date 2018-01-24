@@ -1,3 +1,18 @@
+## Welcome to G3WKW home page
+
+This is a new test site to see how easy it is to maintain. 
+lnitially I plan to document the build of my M0NKA MCHF SDR V0.7
+Otherwise I would be doing this on Facebook where it would have been accessible only to friends and thoroughly bored the vast majority. Hopefully this will be accessible to the many others who have an interest in this project.
+
+At present I have left all the default text below until  I am familiar with the editor.
+
+
+
+
+<hr>
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/G3WKW/G3WKW.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
