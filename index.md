@@ -6,7 +6,7 @@ Otherwise I would be doing this on Facebook where it would have been accessible 
 
 At present I have left all the default text below until  I am familiar with the editor.
 
-
+And this [is a link](Project.md) to my project page.
 
 
 <hr>
