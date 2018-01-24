@@ -1,5 +1,5 @@
 THIS IS A PLACEHOLDER FOR WHERE MY PROJECT WILL BE
-and I WANT A PHOTO ![HERE](BF351C6B-EB4B-418C-AA36-2E3943593182.jpeg)
+and I WANT A PHOTO ![HERE](test.jpeg)
 
 and this is editted in Notepad++ on my PC
 
