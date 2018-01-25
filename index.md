@@ -6,7 +6,7 @@ Otherwise I would be doing this on Facebook where it would have been accessible 
 
 
 And here is my [mcHF project page](mcHF.md).
-For other things I will have a [Project page](project.md)
+For other things I will have a [Project page](projects.md)
 
 
 
