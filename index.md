@@ -1,15 +1,20 @@
 ## Welcome to G3WKW home page
 
-This is a new test site to see how easy it is to maintain. 
-lnitially I plan to document the build of my M0NKA MCHF SDR V0.7
-Otherwise I would be doing this on Facebook where it would have been accessible only to friends and thoroughly bored the vast majority. Hopefully this will be accessible to the many others who have an interest in this project.
-
-At present I have left all the default text below until  I am familiar with the editor.
-
-And this [is a link](Project.md) to my project page.
+This is a new test site to see how easy it is to maintain using MarkDown .md files. 
+lnitially I plan to document the build of my **M0NKA mcHF SDR V0.7**
+Otherwise I would be doing this on Facebook where it would have been accessible only to friends and thoroughly bored the vast majority of them. Hopefully this will be accessible to the many others who have an interest in this project.
 
 
-<hr>
+And here is my [mcHF project page](mcHF.md).
+For other things I will have a [Project page](project.md)
+
+
+
+
+
+___
+ignore all below, just kept for reference.
+___
 
 
 
@@ -17,7 +22,6 @@ And this [is a link](Project.md) to my project page.
 
 You can use the [editor on GitHub](https://github.com/G3WKW/G3WKW.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-THIS IS AN *ADDITION*.  So is this. **AND this**.  and this is _** thrice**_
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
