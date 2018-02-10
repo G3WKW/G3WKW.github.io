@@ -33,7 +33,7 @@ And here is the first stage the illuminated push switches soldered to the UI boa
 
 At this point I became engrossed with the building and took no more construction photos! There is a dozen or so toroids to be wound and a bifilar wound transformer. Perhaps the hardest items to mount were a couple of surface mount construction transformers and surface mount relays but nothing required tweezers or microscopes, though an extra pair of reading glasses comes in handy at times. I guess I completed the hardware build in about 3 sessions with the coil winding done in front of the telly!  Initial results were a bit dissapointing due to strange default settings in the software, but once these were found and the bootloader and firmware updated it is just a matter of getting used to it and practice. 
 
-[>>>Boxing it up>>>](casing.md)
+### Next[>>>Boxing it up>>>](casing.md)
 
 [<<<Back to mcHF<<<](mcHF.md)
 
