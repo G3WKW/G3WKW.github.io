@@ -31,7 +31,7 @@ Lots of Header pins to solder
 And here is the first stage the illuminated push switches soldered to the UI board.
 ![Switches](/images/IMG_1352.JPG)
 
-At this point I became engrossed with the building and took no more construction photos!
+At this point I became engrossed with the building and took no more construction photos! There is a dozen or so toroids to be wound and a bifilar wound transformer. Perhaps the hardest items to mount were a couple of surface mount construction transformers and surface mount relays but nothing required tweezers or microscopes, though an extra pair of reading glasses comes in handy at times
 
 [The Boxing](casing.md)
 
